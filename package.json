@@ -7,9 +7,6 @@
     },
 
     "main": "app.js",
-    "scripts": {
-        "start": "node app.js"
-    },
     "dependencies": {
         "bcrypt-nodejs": "0.0.3",
         "body-parser": "~1.17.1",
